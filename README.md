@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[CV Zayakhanov](https://github.com/Geroinageroine/Rick.jpg)
+[CV Zayakhanov](https://github.com/Geroinageroine/Geroinageroine/blob/main/assets/Rick.jpg)
 
 ## CV
 Меня зовут **Заяханов Владимир** я занимаюсь машинным обучением.
