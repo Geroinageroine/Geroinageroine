@@ -22,6 +22,7 @@
 
 [2 Основы статистики](https://stepik.org/cert/1059358)
 
+[3 BI разработчик. Основы работы в Tableau ](https://stepik.org/course/56280)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geroinageroine&layout=compact&theme=dark)
 
