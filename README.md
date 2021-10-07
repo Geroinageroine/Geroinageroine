@@ -4,7 +4,7 @@
 
 ## CV
 Меня зовут **Заяханов Владимир** я занимаюсь машинным обучением.
-Использую **Python** для анализа данных (**pandas**, **numpy**, **matplotlib**, **seaborn**), оформляю результаты в **Google Colab**
+Использую **Python** для анализа данных (**pandas**, **numpy**, **matplotlib**, **seaborn**), оформляю результаты в [**Google Colab**](https://drive.google.com/drive/folders/1PpcdDdHLqWnZILIx4xbFFVaraykf6H4q?usp=sharing)
 
 Для визуализации и создания дашбордов применяю **Tableau** и **Redash** (*но это не точно*)
 
