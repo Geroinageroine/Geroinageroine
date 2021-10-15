@@ -24,6 +24,8 @@
 
 [3 BI разработчик. Основы работы в Tableau ](https://stepik.org/course/56280)
 
+[4 Основы программирования на языке Python в примерах и задачах](https://stepik.org/cert/1167203)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geroinageroine&layout=compact&theme=dark)
 
 ### Статистика на GitHub
