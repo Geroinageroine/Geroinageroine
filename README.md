@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-![CV Zayakhanov](https://github.com/Geroinageroine/Geroinageroine/blob/main/Rick.jpg)
+![CV Geroinageroine](https://github.com/Geroinageroine/Geroinageroine/blob/main/Rick.jpg)
 
 ## CV
-Меня зовут **Заяханов Владимир** я занимаюсь машинным обучением.
+Меня зовут **Geroinageroine** я занимаюсь машинным обучением.
 Использую **Python** для анализа данных (**pandas**, **numpy**, **matplotlib**, **seaborn**), оформляю результаты в моем [**Google Colab**](https://drive.google.com/drive/folders/1PpcdDdHLqWnZILIx4xbFFVaraykf6H4q?usp=sharing) , Jupyter Notebook.
 
 Для визуализации и создания дашбордов применяю **Tableau** и **Redash** (*но это не точно*)
