@@ -3,8 +3,8 @@
 ![CV Geroinageroine](https://github.com/Geroinageroine/Geroinageroine/blob/main/Rick.jpg)
 
 ## CV
-Меня зовут **Geroinageroine** я занимаюсь машинным обучением.
-Использую **Python** для анализа данных (**pandas**, **numpy**, **matplotlib**, **seaborn**), оформляю результаты в моем [**Google Colab**](https://drive.google.com/drive/folders/1PpcdDdHLqWnZILIx4xbFFVaraykf6H4q?usp=sharing) , Jupyter Notebook.
+Меня зовут **Владимир** я занимаюсь машинным обучением.
+Использую **Python** для анализа данных (**pandas**, **numpy**, **matplotlib**, **seaborn**), оформляю результаты в моем **Google Colab** , Jupyter Notebook.
 
 Для визуализации и создания дашбордов применяю **Tableau** и **Redash** (*но это не точно*)
 
@@ -32,6 +32,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Geroinageroine&show_icons=true&hide=prs,issues,contribs&theme=dark)
 
 ### Мой стек технологий
+![ML](https://img.shields.io/badge/Machine%20learning-8A2BE2)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
