@@ -28,9 +28,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geroinageroine&layout=compact&theme=dark)
 
-### Статистика на GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Geroinageroine&show_icons=true&hide=prs,issues,contribs&theme=dark)
-
 ### Мой стек технологий
 ![ML](https://img.shields.io/badge/Machine%20learning-8A2BE2)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
