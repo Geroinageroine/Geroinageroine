@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![CV Geroinageroine](https://github.com/Geroinageroine/Geroinageroine/blob/main/Rick.jpg)
-
 ## CV
 Меня зовут **Владимир** я занимаюсь машинным обучением.
 Использую **Python** для анализа данных (**pandas**, **numpy**, **matplotlib**, **seaborn**), оформляю результаты в моем **Google Colab** , Jupyter Notebook.
