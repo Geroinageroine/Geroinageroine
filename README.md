@@ -37,7 +37,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Superset](<(https://img.shields.io/badge/Superset-blue)>)
+![Superset](https://img.shields.io/badge/Superset-blue)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333?style=for-the-badge&logo=Photoshop)
 ![Labview](https://img.shields.io/badge/labview-%23FFDB00.svg?&style=for-the-badge&logo=labview&logoColor=black)
 
