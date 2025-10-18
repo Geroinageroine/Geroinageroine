@@ -26,7 +26,7 @@
 
 ### Мой стек технологий
 
-![ML](https://img.shields.io/badge/Machine%20learning-8A2BE2)
+![ML](https://img.shields.io/badge/ML-8A2BE2)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
