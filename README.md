@@ -1,9 +1,5 @@
 ### My name is Vladimir. I am in love with machine learning
 
-<p align="left">
-  <img width="128" src="pic.png">
-</p>
-
 ## CV
 
 Использую **Python** для анализа данных.
